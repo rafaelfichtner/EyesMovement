@@ -1,14 +1,17 @@
 # Eyes Movement
 ## Description:
-blblbldlblfb
+This is an exercise to practice Web Development in JavaScript. It creates a web page with two eyes, that follow the mouse movement.
 
-### How to run:
-dgkdmkgmtkmg
+## How to run:
+https://rafaelfichtner.github.io/EyesMovement/
 
 ## Roadmap for future improvements:
-dgndogkneorgnorm
+- Change the eyes
+- Eyes that blink
+- Change the background
+- Put a person's or animal's face
 
-### License:
+## License:
 MIT License
 
 Copyright (c) 2021 Rafael Fichtner
