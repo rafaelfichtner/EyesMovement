@@ -3,7 +3,7 @@
 This is an exercise to practice Web Development in JavaScript. It creates a web page with two eyes, that follow the mouse movement.
 
 ## How to run:
-Click [here](https://rafaelfichtner.github.io/EyesMovement/) to run the project. Move the mouse and the eye's will follow it.
+Click [here](https://rafaelfichtner.github.io/EyesMovement/) to run the project.
 
 ## Roadmap for future improvements:
 - Change the eyes
